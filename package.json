@@ -10,5 +10,8 @@
     "postcss": "^8.3.7",
     "postcss-cli": "^8.3.1",
     "tailwindcss": "^2.2.15"
+  },
+  "dependencies": {
+    "@fontsource/inter": "^4.5.0"
   }
 }
