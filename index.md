@@ -16,7 +16,8 @@ Start developing your Jekyll website.
 2. listitem 2
 3. third listitem
 
-[some_link]({{site.name}})
+
+[prose example]({% post_url 2021-09-25-example %})
 
  ```rb
  def awesome
