@@ -26,3 +26,4 @@ Start developing your Jekyll website.
  ```
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. A autem dolorum, enim et ex hic incidunt ipsam molestias nihil obcaecati omnis quasi quis sequi sunt veritatis vero vitae! Distinctio, voluptatem!
 
+Updated {date: "%a, %-d %b,  %y"}
